@@ -28,4 +28,4 @@ jobs:
           args: >
             -Dsonar.host.url=https://sonarcloud.io
             -Dsonar.organization=cjpflaz-tech
-            -Dsonar.projectKey=cjpflaz-tech_CYOP380-sonar-test
+            -Dsonar.projectKey=cjpflaz-tech
